@@ -1,0 +1,129 @@
+<html>
+    <head>
+         <title>
+                About Amoxapin
+         </title>
+		 <link rel="stylesheet" type="text/css" href="ab.css">
+		 <style>
+ul#menu {
+    padding: 0;
+}
+
+ul#menu li {
+    display: inline;
+}
+
+ul#menu li a {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px 4px 0 0;
+}
+
+ul#menu li a:hover {
+    background-color: orange;
+}
+</style>
+	</head>	
+	
+		   <body bgcolor="pink">
+		  <font  color="white"face="walter turncoat" style ="text-shadow: 4px 4px 4px #aaa;"><h2>Amoxapine is a tricyclic antidepressant. It works by restoring the balance of natural chemicals (neurotransmitters) in the brain. Because amoxapine has some effects that are similar to those of major tranquilizers, it may work better in patients who have
+		  agitation or anxiety along with depression.</h2></font>
+<ul id ="menu">&nbsp;&nbsp;&nbsp;&nbsp;<li><a href="#ab">About Amoxapin</a></li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<li><a href="#be">Before taking Amoxapin</a></li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<li><a href="#how">How to take Amoxapin</a></li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<li><a href="#can">Can Amoxapin cause problems?</a></li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<li><a href="#st">How to store Amoxapin</a></li>
+</ul>
+<a name="ab"></a> <font face="walter turncoat"  color="black"style ="text-shadow: 4px 4px 4px #aaa;"><h2> About Amoxapin</h2></font>
+<p>
+ Amoxapine is used in the treatment of major <font color="red" style="text-shadow:4px 4px 4px #aaa;">depressive disorder</font>. Compared to other antidepressants it is believed to 
+ have a faster onset of action, with therapeutic effects seen within four to seven days. In excess of 80% of patients
+ that do respond to amoxapine are reported to respond within a fortnight of the beginning of treatment. 
+ It also has properties similar to those of the <font color="red" style="text-shadow:4px 4px 4px #aaa;">typical antipsychotics</font>, and may behave as one and may be used in
+ the treatment of <font color="red" style="text-shadow:4px 4px 4px #aaa;">schizophrenia </font>off-label. Despite its apparent lack of extrapyramidal side effects in patients 
+ with schizophrenia it has been found to exacerbate motor symptoms in patients with<font color="red" style="text-shadow:4px 4px 4px #aaa;">
+ Parkinson's</font> disease psychosis.
+</p>
+<a name="be"></a>
+<font face="walter turncoat"  color="black"style ="text-shadow: 4px 4px 4px #aaa;"><h2> Before taking Amoxapin</h2></font>
+<p>You should not use amoxapine if you are allergic to it, or if you have recently had a heart attack.
+Do not use amoxapine if you have used an MAO inhibitor such as furazolidone (Furoxone), isocarboxazid (Marplan),
+phenelzine (Nardil), rasagiline (Azilect), selegiline (Eldepryl, Emsam, Zelapar), or tranylcypromine (Parnate) in the last 14 days. 
+A dangerous drug interaction could occur, leading to serious side effects.</p>
+<p>To make sure amoxapine is safe for you, tell your doctor if you have any of these conditions:</p>
+ <ul style="list-style-type:square">
+ <li> heart disease;</li>
+<li>a history of heart attack, stroke, or seizures;</li>
+<li>kidney disease;</li>
+<li>schizophrenia or other mental illness;</li>
+<li>diabetes (amoxapine may raise or lower blood sugar);</li>
+<li>bipolar disorder (manic depression);</li>
+<li>glaucoma; or</li>
+<li>problems with urination.</li>
+  </ul>
+ <p>You may have thoughts about suicide while taking an antidepressant, especially if you are younger than 24 years old. Tell your doctor if you have worsening depression or suicidal thoughts during the first several weeks of treatment, or whenever your dose is changed.
+
+Your family or other caregivers should also be alert to changes in your mood or symptoms. Your doctor will need to check you at regular visits for at least the first 12 weeks of treatment.
+
+FDA pregnancy category C. It is not known whether amoxapine will harm an unborn baby. Tell your doctor if you are pregnant or plan to become pregnant while using this medication.
+
+Amoxapine can pass into breast milk and may harm a nursing baby. Do not use this medication without telling your doctor if you are breast-feeding a baby.
+
+Older adults may be more likely to have side effects from this medicine.
+
+Do not give this medication to anyone under 18 years old without the advice of a doctor.</p> 
+<a name="how"></a><font face="walter turncoat"  color="black"style ="text-shadow: 4px 4px 4px #aaa;"><h2>  How to take Amoxapin</h2></font>
+<ul type="I"><li>Take exactly as prescribed by your doctor.</li>
+ <li>Do not take in larger or smaller amounts or for longer than recommended.</li>
+ <li>Follow the directions on your prescription label.</li>
+<li>Your doctor may occasionally change your dose to make sure you get the best results.</li>
+<li>It may take up to 3 weeks before your symptoms improve. 
+Keep using the medication as directed and tell your doctor if your symptoms do not improve after 3 weeks of treatment.</li></ul>
+ 
+
+<a name="can"></a><font face="walter turncoat"  color="black"style ="text-shadow: 4px 4px 4px #aaa;"><h2>Can Amoxapin cause problems?</h2></font><p>Along with their useful effects, most medicines can cause unwanted side-effects 
+<p>Get emergency medical help if you have any of these signs of an allergic reaction: hives; difficult breathing; swelling of your face, lips, tongue, or throat.
+
+Report any new or worsening symptoms to your doctor, such as: mood or behavior changes, anxiety, panic attacks, trouble sleeping, or if you feel impulsive, irritable, agitated, hostile, aggressive, restless, hyperactive (mentally or physically), more depressed, or have thoughts about suicide or hurting yourself.
+
+Stop taking amoxapine and call your doctor at once if you have a serious side effect such as:
+<ul type="I">
+<li>very stiff (rigid) muscles, high fever, sweating, confusion, tremors, feeling like you might pass out;</li>
+<li>pounding heartbeats or fluttering in your chest;</li>
+<li>chest pain or heavy feeling, pain spreading to the arm or shoulder, nausea, sweating, general ill feeling;</li>
+<li>sudden numbness or weakness, especially on one side of the body; or</li>
+<li>sudden severe headache, confusion, problems with vision, speech, or balance.</li>
+<li>Less serious side effects may include:</li>
+
+<li>drowsiness, dizziness, headache, tired feeling;</li>
+<li>feeling restless or nervous;</li>
+<li>dry mouth, blurred vision;</li>
+<li>mild nausea, constipation;</li>
+<li>increased appetite, weight changes;</li>
+<li>increased sweating; or</li>
+<li>sleep problems (insomnia), night mares.</li>
+</ul>
+
+
+
+<p>This is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects.</p>				 
+
+<a name="st"></a>
+<font face="walter turncoat"  color="black"style ="text-shadow: 4px 4px 4px #aaa;"><h2>How to store Amoxapin</h2>
+<ul><li>Store at room temperature away from moisture and heat.</li></ul>
+
+
+			<center><p><a href="http://localhost/Medipedia/.html"><font color="purple"><b>PRIVEIOUS</b></font></a>&nbsp;&nbsp;&nbsp;
+			<a href="uhome.php"><font color="purple"><b>HOME</b></font></a></p></font>
+
+
+&nbsp;&nbsp;&nbsp;
+			<a href=""><font color="purple"><b>NEXT</b></font></a></p></font>
+
+
+ 
+				  
+				  
+            </body>

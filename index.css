@@ -1,0 +1,186 @@
+/*@import url(//fonts.googleapis.com/css?family=Cantarell);
+@import url(//fonts.googleapis.com/css?family=Lora);*/
+
+
+html, body {
+ //background-image: url("wood.jpg");
+  height: auto;
+  margin: 0 auto;
+}
+
+body{
+  margin: 0 auto;
+  max-width: 1000px;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Cantarell', sans-serif;
+  font-size: 20px;
+}
+
+iframe{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+   padding-top: 20px;
+}
+
+
+ 
+h1,
+h2,
+h3{
+  color: dimgrey;
+  font-family: 'Lora', serif;
+}
+
+p {
+  margin-top: 5px;
+}
+
+h2 {
+  border-bottom: 2px solid rgba(0, 0, 0, .2);
+  padding: 10px 0;
+}
+
+h1{
+  margin: 0 auto;
+  font-size: 38px;
+  padding-top: 20px;
+}
+
+#type {
+  display: block; 
+  background-color: #f3f3f3;
+  margin: 10px auto;
+  padding-top:0;
+  width:650px
+}
+
+h3 {
+  color: gray;
+  padding: 20px 0 0 0 ;
+  text-align:center;
+  margin-bottom: 0;
+	border: none;
+	text-decoration: none;
+}
+
+ img {
+  padding: 10px 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+a {
+  text-decoration: none; 
+  color: royalblue; 
+  text-align: center;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: dimGray;
+}
+
+html{
+  text-align:center;
+  padding: 0;
+   background-image: url("woodb.jpg");
+  background-color:powderBlue;
+  
+}
+
+
+footer,
+#push {
+	padding: 0px 20px 0px 20px;
+	position: fixed; 
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color:blue ;
+	max-width: 1000px;
+	width:  100%;
+	margin:  auto;
+	box-sizing: border-box;
+	height: 120px;
+}
+
+section {
+ background-image: url("woodb.jpg");
+  background-color: white;
+  margin-bottom: -120px;
+  min-height: 100%;
+  position: relative;
+  padding: 20px 20px 100px;
+}
+
+
+hr {
+  border: 1px solid lightgrey;
+  margin: 20px 10% 0 10%;
+}
+
+
+ul img{
+  opacity: 1;
+  width:220px;
+  height:155px;
+  display:inline-block;
+  padding:10px;
+  
+}
+
+ul {
+  list-style-type: none;
+  padding:0;
+  margin: 0;
+  text-align: center;
+  display: inline-block;
+}
+ 
+
+ul li {
+  position: relative;
+  display:inline-block;
+
+}
+
+ul li:hover span {
+  opacity: 1;
+}
+
+span {
+  background: rgba(0,0,0,0.4);
+  cursor: pointer;
+  width:220px;
+  height:155px;
+  position: absolute;
+  display:inline-block;
+  top: 10px;
+  right:10px;
+  opacity: 0;
+  -webkit-transition: opacity 500ms;
+  -moz-transition: opacity 500ms;
+  -o-transition: opacity 500ms;
+  transition: opacity 500ms;
+}
+ 
+span h2 {
+  display: table-cell;
+  text-align: center;
+  padding:20px;
+  color:white;
+  vertical-align: middle;
+  border: none;
+}
+
+#filler {
+  background-color: #fff;
+  height: 10px;
+  margin: 20%;
+}
+a {
+	text-align: center;
+}

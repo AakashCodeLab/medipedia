@@ -1,0 +1,44 @@
+
+   
+ #head	     {
+                 color:pink;
+				padding:10px;
+						border:1px solid;
+						font-family:cursive;
+						font-size:100%;
+						background-color:blue;
+				
+		} 
+p{
+font-family:cursive;
+font-size:20px;
+}
+
+table, th, td {
+    border: 1px solid gray;
+    border-collapse: collapse;
+
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+th{
+color:green;
+}
+#s{
+color:red;
+font-family:cursive;
+font-size:20px;
+}
+
+#m{
+
+color:gray;
+font-family:cursive;
+font-size:20px;
+}
+		
+h3{
+	font-family:cursive;
+}	
